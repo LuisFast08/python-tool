@@ -38,14 +38,18 @@ Dieses Tool ist im Rahmen meiner persönlichen Weiterentwicklung entstanden und 
 ---
 
 ## Projekt starten
+Preview:
+![Vorschau](https://github.com/user-attachments/assets/7d7fa1da-01fd-487d-a8bb-aa2f2c2d2dde)
 
-python tool.py
 
 ### Voraussetzungen
 
 - Python 3.x  
 - Internetverbindung (für Wetter- und IP-Funktionen)  
 - Installation der benötigten Bibliothek:
+- Starten des Tools:
 ```bash
 
 pip install requests
+python tool.py
+
