@@ -6,7 +6,6 @@
 
 Dieses Tool ist im Rahmen meiner persönlichen Weiterentwicklung entstanden und demonstriert meine Fähigkeiten in den Bereichen:
 - Strukturierte Programmierung
-- Fehlerbehandlung und Nutzerführung
 - API-Integration (OpenWeather, ipinfo.io)
 - Kreatives Projektdenken
 
